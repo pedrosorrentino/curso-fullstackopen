@@ -1,5 +1,3 @@
-# Diagrama de flujo de notas
-
 ```mermaid
 %% Ejemplo de diagrama de secuencia del flujo POST y redirección
 sequenceDiagram
@@ -34,9 +32,3 @@ participant Servidor
 
     Note left of Navegador: Las nuevas notas se pierden<br/>al reiniciar el servidor
 ```
-
-## Explicación
-
-1. El navegador envía el formulario vía POST
-2. El servidor procesa los datos y redirige
-3. El navegador recarga la página y sus recursos

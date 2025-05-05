@@ -1,3 +1,4 @@
+```mermaid
 %% Creación de nota en SPA
 sequenceDiagram
 participant Usuario
@@ -23,3 +24,4 @@ participant Servidor
     deactivate Navegador
 
     Note over Usuario,Navegador: La página NO se recarga<br/>y solo hay 1 solicitud HTTP
+```

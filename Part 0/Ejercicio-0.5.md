@@ -1,3 +1,4 @@
+```mermaid
 %% Diagrama de flujo SPA
 sequenceDiagram
 participant Navegador
@@ -23,3 +24,4 @@ participant Servidor
     3. Sin redirección (302 -> 201)<br/>
     4. UI se actualiza sin recargar
     end
+```
