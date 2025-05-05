@@ -17,6 +17,5 @@ participant Servidor
 
     Note left of Navegador: No hay recarga de página<br/>Actualización local con JavaScript
 
-    Note over Navegador,Servidor: Diferencias clave con versión tradicional:<br/>1. Solo 1 solicitud HTTP<br/>2. Datos en formato JSON<br/>3. Sin redirección (302 -> 201)<br/>4. UI se actualiza sin recargar
-    end
+    Note over Navegador,Servidor: Diferencias clave con versión tradicional:\n1. Solo 1 solicitud HTTP\n2. Datos en formato JSON\n3. Sin redirección (302 -> 201)\n4. UI se actualiza sin recargar
 ```
